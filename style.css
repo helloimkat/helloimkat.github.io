@@ -172,6 +172,21 @@ p {
     background-size: 110% 110%;
 }
 
+/* underline cnc - work */
+
+.underline--magical-cnc {
+    background-image: linear-gradient(120deg, #FF7F00 0%, #FF7F00 100%);
+    background-repeat: no-repeat;
+    background-size: 100% 0.3em;
+    background-position: 0 90%;
+    transition: background-size 0.30s ease-in;
+}
+
+.underline--magical-cnc:hover {
+    background-size: 110% 110%;
+}
+
+
 /* ANI */
 
 /* line 109, D:/Userdata/Katja/Desktop/1/scss/style.scss */
